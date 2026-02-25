@@ -1,0 +1,66 @@
+Valid-License-Identifier: GPL-2.0
+Valid-License-Identifier: GPL-2.0-only
+SPDX-URL: https://spdx.org/licenses/GPL-2.0.html
+
+Project: PDF Accelerated Extraction Engine (PAEE)
+Copyright: Copyright (C) 2026 Charged Technology Solutions, Inc.
+
+License-Notice:
+
+The PDF Accelerated Extraction Engine (PAEE) core tool is licensed
+under the GNU General Public License Version 2 only (GPL-2.0-only).
+Caladrius is a separate proprietary engine developed and owned
+by Charged Technology Solutions, Inc. It provides the advanced capabilities of
+PAEE. Caladrius is not part of the GPL-licensed PAEE core and is distributed only under
+separate commercial license terms.
+
+Caladrius is not derived from the PAEE GPL codebase.
+
+SPDX-License-Identifier: GPL-2.0-only
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 2 as
+published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, see https://www.gnu.org/licenses/
+
+Additional-Project-Notice:
+
+The PAEE core parsing engine is open-source under GPL-2.0-only.
+
+The following components are NOT licensed under GPL and are
+distributed separately under commercial or proprietary terms:
+
+- Graphic Visualizer
+- Split-Screen Interface
+- Enterprise GPU Acceleration Modules
+- Advanced Performance Dashboard
+- Commercial Extraction Extensions
+
+Those proprietary components are not part of the GPL-covered work
+and are distributed only under separate commercial agreements.
+
+Trademark Notice:
+
+PAEE™ is a trademark of Charged Technology Solutions, Inc.
+Unauthorized use of the PAEE name or branding in derivative
+distributions is prohibited without written permission.
+
+------------------------------------------------------------------
+
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 2, June 1991
+
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+https://fsf.org/
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+[Include the full unmodified GPLv2 license text below this line.]

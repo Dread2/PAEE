@@ -1,0 +1,153 @@
+# PAEE Contributor License Agreement (CLA)
+
+**Project:** PDF Accelerated Extraction Engine (PAEE)  
+**Licensor:** Charged Technology Solutions, Inc.
+
+Thank you for contributing to PAEE.  
+To protect the long-term sustainability of the project and enable dual licensing, we require all contributors to agree to the following terms.
+
+---
+
+## 1. Definitions
+
+- **Project** means the open-source PAEE core engine released under the GNU General Public License Version 2 only (GPL-2.0-only).  
+- **Contribution** means any source code, documentation, patches, enhancements, bug fixes, or other material intentionally submitted to the Project.  
+- **You** means the individual or legal entity submitting a Contribution.  
+- **Licensor** means Charged Technology Solutions, Inc.  
+
+---
+
+## 2. Grant of Copyright License
+
+You hereby grant to Licensor a:
+
+- Perpetual  
+- Worldwide  
+- Non-exclusive  
+- Royalty-free  
+- Irrevocable  
+
+license to:
+
+- Use  
+- Reproduce  
+- Modify  
+- Prepare derivative works  
+- Publicly display  
+- Publicly perform  
+- Sublicense  
+- Distribute  
+
+your Contributions as part of the Product or as part of a separate commercial or proprietary license.
+
+This includes the right for Licensor to distribute Contributions:
+
+- Under GPL-2.0-only  
+- Under a commercial license  
+- As part of proprietary enterprise software  
+
+---
+
+## 3. Right to Relicense
+
+You agree that Licensor may relicense your Contributions under:
+
+- Commercial licenses  
+- Proprietary licenses  
+- Future versions of open-source licenses  
+
+without requiring additional permission from you.  
+
+This ensures PAEE can operate under a dual-license model while keeping Caladrius proprietary.
+
+---
+
+## 4. Contributor Representations
+
+You represent and warrant that:
+
+1. You are legally entitled to grant the above license.  
+2. The Contribution is your original work, or you have sufficient rights to submit it.  
+3. The Contribution does not knowingly infringe any third-party intellectual property rights.  
+4. If submitting on behalf of an employer, you have authority to do so.  
+
+---
+
+## 5. No Obligation to Use Contributions
+
+Licensor is not obligated to:
+
+- Accept  
+- Include  
+- Maintain  
+- Support  
+
+any Contribution.  
+
+All decisions regarding inclusion remain at the sole discretion of Licensor.
+
+---
+
+## 6. Proprietary Components Clarification
+
+You acknowledge and agree that:
+
+- The PAEE core engine is GPL-2.0-only.  
+- Certain components, including but not limited to:
+  - Caladrius proprietary engine  
+  - Graphic Visualizer  
+  - Split-Screen Interface  
+  - Enterprise GPU acceleration modules  
+  - Advanced extraction dashboards  
+
+are proprietary and not part of the GPL-licensed PAEE core.  
+
+This CLA does **not** grant you rights in these proprietary components.
+
+---
+
+## 7. Patent License
+
+To the extent your Contribution includes patentable material, you grant Licensor a perpetual, worldwide, royalty-free patent license to make, use, sell, offer for sale, import, and otherwise transfer the Contribution.
+
+---
+
+## 8. No Employment Relationship
+
+Submitting a Contribution does not create:
+
+- Employment  
+- Partnership  
+- Joint venture  
+- Agency  
+
+relationship between You and Licensor.
+
+---
+
+## 9. Governing Law
+
+This Agreement shall be governed by the laws of the State of California, United States.
+
+---
+
+## 10. Signature
+
+By submitting a Contribution to PAEE (via pull request, patch, or other method), you agree to the terms of this Contributor License Agreement.
+
+Name: ___________________________  
+Email: __________________________  
+Signature: _______________________  
+Date: ____________________________
+
+---
+
+### Optional: Corporate Contributor Addendum
+
+If you are contributing on behalf of a company, an authorized representative must sign below:
+
+Company Name: ___________________________  
+Authorized Representative: _______________  
+Title: __________________________________  
+Signature: _______________________________  
+Date: ___________________________________
