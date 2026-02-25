@@ -56,6 +56,6 @@ Features
 - Live Processing
 - Graph Visualization
 - GPU-Based Highlighting
-- Export Pipeline (`.txt`, '.xlsx', '.sql`)
+- Export Pipeline (`.txt`, `.xlsx`, `.sql`)
 - Split-Screen Layout
 - Performance Dashboard
